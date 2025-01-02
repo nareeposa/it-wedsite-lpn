@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/it-wedsite-lpn/static/css/main.d221dc40.css",
-    "main.js": "/it-wedsite-lpn/static/js/main.5354247f.js",
-    "index.html": "/it-wedsite-lpn/index.html",
-    "main.d221dc40.css.map": "/it-wedsite-lpn/static/css/main.d221dc40.css.map",
-    "main.5354247f.js.map": "/it-wedsite-lpn/static/js/main.5354247f.js.map"
+    "main.css": "/static/css/main.9d1fbfbf.css",
+    "main.js": "/static/js/main.15ea5c27.js",
+    "index.html": "/index.html",
+    "main.9d1fbfbf.css.map": "/static/css/main.9d1fbfbf.css.map",
+    "main.15ea5c27.js.map": "/static/js/main.15ea5c27.js.map"
   },
   "entrypoints": [
-    "static/css/main.d221dc40.css",
-    "static/js/main.5354247f.js"
+    "static/css/main.9d1fbfbf.css",
+    "static/js/main.15ea5c27.js"
   ]
 }
